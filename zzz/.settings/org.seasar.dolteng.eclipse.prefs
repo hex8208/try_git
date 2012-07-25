@@ -1,0 +1,7 @@
+DaoType=S2Dao
+DefaultResourcePath=/zzz/src/main/resources
+DefaultRootPackage=zzz
+DefaultSrcPath=/zzz/src/main/java
+ServletPath=/zzz
+WebContentsRoot=src/main/webapp/
+eclipse.preferences.version=1
